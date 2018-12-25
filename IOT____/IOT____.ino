@@ -4,8 +4,8 @@
 #include <Arduino.h>
 
 
-#define SSID      "601"    // your wifi network SSID
-#define KEY       "sealab2018"    // your wifi network password
+#define SSID      "ssss"    // your wifi network SSID
+#define KEY       "ssss"    // your wifi network password
 #define AUTH       "WPA2"     // your wifi network security (NONE, WEP, WPA, WPA2)
 #define USE_DHCP_IP 1
 
